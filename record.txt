@@ -1,1 +1,1 @@
-record is recovered and created!
+record is recovered and created and moved!
