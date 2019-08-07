@@ -1,1 +1,2 @@
 master is created!
+master's bug is repaired completly！
