@@ -1,1 +1,2 @@
 record is created!
+record is readed!
